@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+       #                                   "Sil vous plait attendez juste que je reajuste 2/3 truc juste  un petit bug svp" jenvoie la version finale maximum demain
 # In[23]:
 
 
